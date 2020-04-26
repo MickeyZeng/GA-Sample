@@ -1,3 +1,5 @@
+package geneticAlgorithms;
+
 import java.util.ArrayList;
 
 public class Population{

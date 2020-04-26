@@ -1,3 +1,5 @@
+package geneticAlgorithms;
+
 public class GA {
 
     public static Chromosome run(int times, int size){
